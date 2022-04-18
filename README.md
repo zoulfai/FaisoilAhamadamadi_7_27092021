@@ -1,4 +1,4 @@
-	# Projet 7 OPENCLASSROOM parcours Développeur Web
+# Projet 7 OPENCLASSROOM parcours Développeur Web
 
 # Créez un réseau social d’entreprise
 
