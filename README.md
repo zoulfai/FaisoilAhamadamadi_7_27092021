@@ -32,7 +32,7 @@ Pour installer ce projet veuillez-vous procurer :
 
 - Importez le fichier groupomania.sql qui se trouve à la racine du repository dans la base de données 
 
-- Démarrez le backend avec la commande node server
+- Démarrez le backend avec la commande nodemon server
 
 - Démarrez le frontend avec la commande yarn serve
 
